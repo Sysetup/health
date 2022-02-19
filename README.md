@@ -10,7 +10,7 @@ Sequence: `1, 1, 2, 3, 5, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 159
 
 Perceptible to the ear as base frequencies: `From 21 Hertz to 17711 Hertz`.
 
-Seeds 1 and 3: Which is the same proportion of taking seeds `3 and 4`.
+2. Seeds 1 and 3: Which is the same proportion of taking seeds `3 and 4`.
 
 Sequence: `1, 3, 4, 7, 11, 11, 18, 29, 47, 76, 123, 199, 322, 521, 843, 1364, 2207, 3571, 5778, 9349, 15127, 24476 Hertz`.
 
