@@ -2,11 +2,11 @@
 
 Initially working with audios:
 
-Isochronous tones, creating fibonacci sequences using as seeds `2` values applied to the base frequencies and pulse frequencies.
+Isochronic tones, creating fibonacci sequences using as seeds `2` values applied to the base frequencies and pulse frequencies.
 
 1. Seeds 1 and 1: Which is the same proportion of taking the seeds `1 and 2` or `2 and 3`.
 
-Sequence: `1, 1, 2, 3, 5, 5, 8, 13, 21, 34, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711 Hertz`.
+Sequence: `1, 1, 2, 3, 5, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711 Hertz`.
 
 Perceptible to the ear as base frequencies: `From 21 Hertz to 17711 Hertz`.
 
