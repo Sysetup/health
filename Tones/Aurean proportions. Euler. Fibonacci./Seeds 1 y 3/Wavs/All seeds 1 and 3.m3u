@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:0,Beat 4Hz
+1%20Second/Beat%204Hz
+#EXTINF:0,Beat 11Hz
+1%20Second/Beat%2011Hz
+#EXTINF:0,Beat 18Hz
+1%20Second/Beat%2018Hz
+#EXTINF:0,Beat 29Hz
+1%20Second/Beat%2029Hz
+#EXTINF:0,Beat 47Hz
+1%20Second/Beat%2047Hz
+#EXTINF:1,Base 4hz.wav
+1%20Second/Beat%2076Hz/Base%204hz.wav
+#EXTINF:1,Base 7Hz.wav
+1%20Second/Beat%2076Hz/Base%207Hz.wav
+#EXTINF:1,Base 11Hz.wav
+1%20Second/Beat%2076Hz/Base%2011Hz.wav
+#EXTINF:1,Base 18Hz.wav
+1%20Second/Beat%2076Hz/Base%2018Hz.wav
+#EXTINF:1,Base 29Hz.wav
+1%20Second/Beat%2076Hz/Base%2029Hz.wav
+#EXTINF:1,Base 47Hz.wav
+1%20Second/Beat%2076Hz/Base%2047Hz.wav
+#EXTINF:1,Base 76Hz.wav
+1%20Second/Beat%2076Hz/Base%2076Hz.wav
+#EXTINF:1,Base 123Hz.wav
+1%20Second/Beat%2076Hz/Base%20123Hz.wav
+#EXTINF:1,Base 199Hz.wav
+1%20Second/Beat%2076Hz/Base%20199Hz.wav
+#EXTINF:1,Base 322Hz.wav
+1%20Second/Beat%2076Hz/Base%20322Hz.wav
+#EXTINF:1,Base 521Hz.wav
+1%20Second/Beat%2076Hz/Base%20521Hz.wav
+#EXTINF:1,Base 843Hz.wav
+1%20Second/Beat%2076Hz/Base%20843Hz.wav
+#EXTINF:1,Base 1364Hz.wav
+1%20Second/Beat%2076Hz/Base%201364Hz.wav
+#EXTINF:1,Base 2207Hz.wav
+1%20Second/Beat%2076Hz/Base%202207Hz.wav
+#EXTINF:1,Base 3571Hz.wav
+1%20Second/Beat%2076Hz/Base%203571Hz.wav
+#EXTINF:1,Base 5778Hz.wav
+1%20Second/Beat%2076Hz/Base%205778Hz.wav
+#EXTINF:1,Base 9349Hz.wav
+1%20Second/Beat%2076Hz/Base%209349Hz.wav
+#EXTINF:1,Base 15127Hz
+1%20Second/Beat%2076Hz/Base%2015127Hz.wav
+#EXTINF:1,Brown  noise
+1%20Second/Beat%2076Hz/Brown%20%20noise.wav
+#EXTINF:1,Pink noise.wav
+1%20Second/Beat%2076Hz/Pink%20noise.wav
+#EXTINF:1,White noise.wav
+1%20Second/Beat%2076Hz/White%20noise.wav
+#EXTINF:0,Beat 7Hz
+1%20Second/Beat%207Hz
+#EXTINF:0,Beat 123Hz
+1%20Second/Beat%20123Hz
+#EXTINF:0,Beat 199Hz
+1%20Second/Beat%20199Hz
+#EXTINF:1,Base 4hz.wav
+1%20Second/Beat%201Hz/Base%204hz.wav
+#EXTINF:1,Base 7Hz.wav
+1%20Second/Beat%201Hz/Base%207Hz.wav
+#EXTINF:1,Base 11Hz.wav
+1%20Second/Beat%201Hz/Base%2011Hz.wav
+#EXTINF:1,Base 18Hz.wav
+1%20Second/Beat%201Hz/Base%2018Hz.wav
+#EXTINF:1,Base 29Hz.wav
+1%20Second/Beat%201Hz/Base%2029Hz.wav
+#EXTINF:1,Base 47Hz.wav
+1%20Second/Beat%201Hz/Base%2047Hz.wav
+#EXTINF:1,Base 76Hz.wav
+1%20Second/Beat%201Hz/Base%2076Hz.wav
+#EXTINF:1,Base 123Hz.wav
+1%20Second/Beat%201Hz/Base%20123Hz.wav
+#EXTINF:1,Base 199Hz.wav
+1%20Second/Beat%201Hz/Base%20199Hz.wav
+#EXTINF:1,Base 322Hz.wav
+1%20Second/Beat%201Hz/Base%20322Hz.wav
+#EXTINF:1,Base 521Hz.wav
+1%20Second/Beat%201Hz/Base%20521Hz.wav
+#EXTINF:1,Base 843Hz.wav
+1%20Second/Beat%201Hz/Base%20843Hz.wav
+#EXTINF:1,Base 1364Hz.wav
+1%20Second/Beat%201Hz/Base%201364Hz.wav
+#EXTINF:1,Base 2207Hz.wav
+1%20Second/Beat%201Hz/Base%202207Hz.wav
+#EXTINF:1,Base 3571Hz.wav
+1%20Second/Beat%201Hz/Base%203571Hz.wav
+#EXTINF:1,Base 5778Hz.wav
+1%20Second/Beat%201Hz/Base%205778Hz.wav
+#EXTINF:1,Base 9349Hz.wav
+1%20Second/Beat%201Hz/Base%209349Hz.wav
+#EXTINF:1,Base 15127Hz
+1%20Second/Beat%201Hz/Base%2015127Hz.wav
+#EXTINF:1,Brown  noise
+1%20Second/Beat%201Hz/Brown%20%20noise.wav
+#EXTINF:1,Pink noise.wav
+1%20Second/Beat%201Hz/Pink%20noise.wav
+#EXTINF:1,White noise.wav
+1%20Second/Beat%201Hz/White%20noise.wav
+#EXTINF:0,Beat 322Hz
+1%20Second/Beat%20322Hz
+#EXTINF:1,Base 4hz.wav
+1%20Second/Beat%20843Hz/Base%204hz.wav
+#EXTINF:1,Base 7Hz.wav
+1%20Second/Beat%20843Hz/Base%207Hz.wav
+#EXTINF:1,Base 11Hz.wav
+1%20Second/Beat%20843Hz/Base%2011Hz.wav
+#EXTINF:1,Base 18Hz.wav
+1%20Second/Beat%20843Hz/Base%2018Hz.wav
+#EXTINF:1,Base 29Hz.wav
+1%20Second/Beat%20843Hz/Base%2029Hz.wav
+#EXTINF:1,Base 47Hz.wav
+1%20Second/Beat%20843Hz/Base%2047Hz.wav
+#EXTINF:1,Base 76Hz.wav
+1%20Second/Beat%20843Hz/Base%2076Hz.wav
+#EXTINF:1,Base 123Hz.wav
+1%20Second/Beat%20843Hz/Base%20123Hz.wav
+#EXTINF:1,Base 199Hz.wav
+1%20Second/Beat%20843Hz/Base%20199Hz.wav
+#EXTINF:1,Base 322Hz.wav
+1%20Second/Beat%20843Hz/Base%20322Hz.wav
+#EXTINF:1,Base 521Hz.wav
+1%20Second/Beat%20843Hz/Base%20521Hz.wav
+#EXTINF:1,Base 843Hz.wav
+1%20Second/Beat%20843Hz/Base%20843Hz.wav
+#EXTINF:1,Base 1364Hz.wav
+1%20Second/Beat%20843Hz/Base%201364Hz.wav
+#EXTINF:1,Base 2207Hz.wav
+1%20Second/Beat%20843Hz/Base%202207Hz.wav
+#EXTINF:1,Base 3571Hz.wav
+1%20Second/Beat%20843Hz/Base%203571Hz.wav
+#EXTINF:1,Base 5778Hz.wav
+1%20Second/Beat%20843Hz/Base%205778Hz.wav
+#EXTINF:1,Base 9349Hz.wav
+1%20Second/Beat%20843Hz/Base%209349Hz.wav
+#EXTINF:1,Base 15127Hz
+1%20Second/Beat%20843Hz/Base%2015127Hz.wav
+#EXTINF:1,Brown  noise
+1%20Second/Beat%20843Hz/Brown%20%20noise.wav
+#EXTINF:1,Pink noise.wav
+1%20Second/Beat%20843Hz/Pink%20noise.wav
+#EXTINF:1,White noise.wav
+1%20Second/Beat%20843Hz/White%20noise.wav
+#EXTINF:0,Beat 1364Hz
+1%20Second/Beat%201364Hz
+#EXTINF:0,Beat 2207Hz
+1%20Second/Beat%202207Hz
+#EXTINF:0,Beat 3571Hz
+1%20Second/Beat%203571Hz
+#EXTINF:1,Base 4hz.wav
+1%20Second/Beat%203Hz/Base%204hz.wav
+#EXTINF:1,Base 7Hz.wav
+1%20Second/Beat%203Hz/Base%207Hz.wav
+#EXTINF:1,Base 11Hz.wav
+1%20Second/Beat%203Hz/Base%2011Hz.wav
+#EXTINF:1,Base 18Hz.wav
+1%20Second/Beat%203Hz/Base%2018Hz.wav
+#EXTINF:1,Base 29Hz.wav
+1%20Second/Beat%203Hz/Base%2029Hz.wav
+#EXTINF:1,Base 47Hz.wav
+1%20Second/Beat%203Hz/Base%2047Hz.wav
+#EXTINF:1,Base 76Hz.wav
+1%20Second/Beat%203Hz/Base%2076Hz.wav
+#EXTINF:1,Base 123Hz.wav
+1%20Second/Beat%203Hz/Base%20123Hz.wav
+#EXTINF:1,Base 199Hz.wav
+1%20Second/Beat%203Hz/Base%20199Hz.wav
+#EXTINF:1,Base 322Hz.wav
+1%20Second/Beat%203Hz/Base%20322Hz.wav
+#EXTINF:1,Base 521Hz.wav
+1%20Second/Beat%203Hz/Base%20521Hz.wav
+#EXTINF:1,Base 843Hz.wav
+1%20Second/Beat%203Hz/Base%20843Hz.wav
+#EXTINF:1,Base 1364Hz.wav
+1%20Second/Beat%203Hz/Base%201364Hz.wav
+#EXTINF:1,Base 2207Hz.wav
+1%20Second/Beat%203Hz/Base%202207Hz.wav
+#EXTINF:1,Base 3571Hz.wav
+1%20Second/Beat%203Hz/Base%203571Hz.wav
+#EXTINF:1,Base 5778Hz.wav
+1%20Second/Beat%203Hz/Base%205778Hz.wav
+#EXTINF:1,Base 9349Hz.wav
+1%20Second/Beat%203Hz/Base%209349Hz.wav
+#EXTINF:1,Base 15127Hz
+1%20Second/Beat%203Hz/Base%2015127Hz.wav
+#EXTINF:1,Brown  noise
+1%20Second/Beat%203Hz/Brown%20%20noise.wav
+#EXTINF:1,Pink noise.wav
+1%20Second/Beat%203Hz/Pink%20noise.wav
+#EXTINF:1,White noise.wav
+1%20Second/Beat%203Hz/White%20noise.wav
+#EXTINF:0,Beat 521Hz
+1%20Second/Beat%20521Hz
+#EXTINF:1,Base 4hz.wav
+1%20Second/Beat%205778Hz/Base%204hz.wav
+#EXTINF:1,Base 7Hz.wav
+1%20Second/Beat%205778Hz/Base%207Hz.wav
+#EXTINF:1,Base 11Hz.wav
+1%20Second/Beat%205778Hz/Base%2011Hz.wav
+#EXTINF:1,Base 18Hz.wav
+1%20Second/Beat%205778Hz/Base%2018Hz.wav
+#EXTINF:1,Base 29Hz.wav
+1%20Second/Beat%205778Hz/Base%2029Hz.wav
+#EXTINF:1,Base 47Hz.wav
+1%20Second/Beat%205778Hz/Base%2047Hz.wav
+#EXTINF:1,Base 76Hz.wav
+1%20Second/Beat%205778Hz/Base%2076Hz.wav
+#EXTINF:1,Base 123Hz.wav
+1%20Second/Beat%205778Hz/Base%20123Hz.wav
+#EXTINF:1,Base 199Hz.wav
+1%20Second/Beat%205778Hz/Base%20199Hz.wav
+#EXTINF:1,Base 322Hz.wav
+1%20Second/Beat%205778Hz/Base%20322Hz.wav
+#EXTINF:1,Base 521Hz.wav
+1%20Second/Beat%205778Hz/Base%20521Hz.wav
+#EXTINF:1,Base 843Hz.wav
+1%20Second/Beat%205778Hz/Base%20843Hz.wav
+#EXTINF:1,Base 1364Hz.wav
+1%20Second/Beat%205778Hz/Base%201364Hz.wav
+#EXTINF:1,Base 2207Hz.wav
+1%20Second/Beat%205778Hz/Base%202207Hz.wav
+#EXTINF:1,Base 3571Hz.wav
+1%20Second/Beat%205778Hz/Base%203571Hz.wav
+#EXTINF:1,Base 5778Hz.wav
+1%20Second/Beat%205778Hz/Base%205778Hz.wav
+#EXTINF:1,Base 9349Hz.wav
+1%20Second/Beat%205778Hz/Base%209349Hz.wav
+#EXTINF:1,Base 15127Hz
+1%20Second/Beat%205778Hz/Base%2015127Hz.wav
+#EXTINF:1,Brown noise.wav
+1%20Second/Beat%205778Hz/Brown%20noise.wav
+#EXTINF:1,Pink noise.wav
+1%20Second/Beat%205778Hz/Pink%20noise.wav
+#EXTINF:1,White noise.wav
+1%20Second/Beat%205778Hz/White%20noise.wav
+#EXTINF:1,Silence 1 second.wav
+1%20Second/Silence%201%20second.wav
+#EXTINF:0,3 Seconds
+3%20Seconds
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%204Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%204Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%204Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%204Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%204Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%204Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%204Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%204Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%204Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%204Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%204Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%204Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%204Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%204Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%204Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%204Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%204Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%204Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%204Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%204Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%204Hz/White%20noise.wav
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%207Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%207Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%207Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%207Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%207Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%207Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%207Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%207Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%207Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%207Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%207Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%207Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%207Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%207Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%207Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%207Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%207Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%207Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%207Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%207Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%207Hz/White%20noise.wav
+#EXTINF:0,Beat 11Hz
+4%20Seconds/Beat%2011Hz
+#EXTINF:0,Beat 18Hz
+4%20Seconds/Beat%2018Hz
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%2029Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%2029Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%2029Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%2029Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%2029Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%2029Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%2029Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%2029Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%2029Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%2029Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%2029Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%2029Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%2029Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%2029Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%2029Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%2029Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%2029Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%2029Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%2029Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%2029Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%2029Hz/White%20noise.wav
+#EXTINF:0,Beat 47Hz
+4%20Seconds/Beat%2047Hz
+#EXTINF:0,Beat 76Hz
+4%20Seconds/Beat%2076Hz
+#EXTINF:0,Beat 123Hz
+4%20Seconds/Beat%20123Hz
+#EXTINF:0,Beat 199Hz
+4%20Seconds/Beat%20199Hz
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%201Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%201Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%201Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%201Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%201Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%201Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%201Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%201Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%201Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%201Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%201Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%201Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%201Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%201Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%201Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%201Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%201Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%201Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%201Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%201Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%201Hz/White%20noise.wav
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%20322Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%20322Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%20322Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%20322Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%20322Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%20322Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%20322Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%20322Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%20322Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%20322Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%20322Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%20322Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%20322Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%20322Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%20322Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%20322Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%20322Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%20322Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%20322Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%20322Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%20322Hz/White%20noise.wav
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%20843Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%20843Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%20843Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%20843Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%20843Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%20843Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%20843Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%20843Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%20843Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%20843Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%20843Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%20843Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%20843Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%20843Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%20843Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%20843Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%20843Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%20843Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%20843Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%20843Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%20843Hz/White%20noise.wav
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%201364Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%201364Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%201364Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%201364Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%201364Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%201364Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%201364Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%201364Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%201364Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%201364Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%201364Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%201364Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%201364Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%201364Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%201364Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%201364Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%201364Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%201364Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown  noise
+4%20Seconds/Beat%201364Hz/Brown%20%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%201364Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%201364Hz/White%20noise.wav
+#EXTINF:0,Beat 2207Hz
+4%20Seconds/Beat%202207Hz
+#EXTINF:0,Beat 3571Hz
+4%20Seconds/Beat%203571Hz
+#EXTINF:0,Beat 3Hz
+4%20Seconds/Beat%203Hz
+#EXTINF:0,Beat 521Hz
+4%20Seconds/Beat%20521Hz
+#EXTINF:4,Base 4hz.wav
+4%20Seconds/Beat%205778Hz/Base%204hz.wav
+#EXTINF:4,Base 7Hz.wav
+4%20Seconds/Beat%205778Hz/Base%207Hz.wav
+#EXTINF:4,Base 11Hz.wav
+4%20Seconds/Beat%205778Hz/Base%2011Hz.wav
+#EXTINF:4,Base 18Hz.wav
+4%20Seconds/Beat%205778Hz/Base%2018Hz.wav
+#EXTINF:4,Base 29Hz.wav
+4%20Seconds/Beat%205778Hz/Base%2029Hz.wav
+#EXTINF:4,Base 47Hz.wav
+4%20Seconds/Beat%205778Hz/Base%2047Hz.wav
+#EXTINF:4,Base 76Hz.wav
+4%20Seconds/Beat%205778Hz/Base%2076Hz.wav
+#EXTINF:4,Base 123Hz.wav
+4%20Seconds/Beat%205778Hz/Base%20123Hz.wav
+#EXTINF:4,Base 199Hz.wav
+4%20Seconds/Beat%205778Hz/Base%20199Hz.wav
+#EXTINF:4,Base 322Hz.wav
+4%20Seconds/Beat%205778Hz/Base%20322Hz.wav
+#EXTINF:4,Base 521Hz.wav
+4%20Seconds/Beat%205778Hz/Base%20521Hz.wav
+#EXTINF:4,Base 843Hz.wav
+4%20Seconds/Beat%205778Hz/Base%20843Hz.wav
+#EXTINF:4,Base 1364Hz.wav
+4%20Seconds/Beat%205778Hz/Base%201364Hz.wav
+#EXTINF:4,Base 2207Hz.wav
+4%20Seconds/Beat%205778Hz/Base%202207Hz.wav
+#EXTINF:4,Base 3571Hz.wav
+4%20Seconds/Beat%205778Hz/Base%203571Hz.wav
+#EXTINF:4,Base 5778Hz.wav
+4%20Seconds/Beat%205778Hz/Base%205778Hz.wav
+#EXTINF:4,Base 9349Hz.wav
+4%20Seconds/Beat%205778Hz/Base%209349Hz.wav
+#EXTINF:4,Base 15127Hz
+4%20Seconds/Beat%205778Hz/Base%2015127Hz.wav
+#EXTINF:4,Brown noise.wav
+4%20Seconds/Beat%205778Hz/Brown%20noise.wav
+#EXTINF:4,Pink noise.wav
+4%20Seconds/Beat%205778Hz/Pink%20noise.wav
+#EXTINF:4,White noise.wav
+4%20Seconds/Beat%205778Hz/White%20noise.wav
+#EXTINF:4,Silence 4 seconds.wav
+4%20Seconds/Silence%204%20seconds.wav
+#EXTINF:0,7 Seconds
+7%20Seconds
