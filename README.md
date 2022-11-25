@@ -17,5 +17,3 @@ Sequence: `1, 3, 4, 7, 11, 11, 18, 29, 47, 76, 123, 199, 322, 521, 843, 1364, 22
 Perceptible to the ear as base frequencies: `From 18 Hertz to 15127 Hertz`.
 
 3. EMDR. Eye movement desensitization and reprocessing. Applied here for auditory stimulation. [Reference](https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing)
-
-Translated with www.DeepL.com/Translator (free version)
